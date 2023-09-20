@@ -30,7 +30,7 @@ You can find me on:
 I'm currently learning more about:
 
 - Reactive Spring (Vert.x)
-- GraphQL
+- Spring Kotlin
 - Typescript
 
 
