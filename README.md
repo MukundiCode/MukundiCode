@@ -13,6 +13,7 @@ I'm a software engineer who is mainly focused on backend software development. I
 
 Here are some of the projects I have worked on or contributed to:
 
+- [DevPortfolio.me](https://mydevportfolio.click): Devportfolio is a platform where developers can create their online portfolio, like an online CV. 
 - [Christ Embassy Partnership portal](https://github.com/MukundiCode/cezimrechurch.git): A Spring Boot and React application for my local church that allows the church admin to manage, track, and keep account of church givings and partnerships.
 - [You and Your Baby](https://github.com/MukundiCode/ECD-App): An android application built in Kotlin that assists parents in ensuring maximum developmental progress of their child within the first two years of life
 - [End to End encrypted chat app](https://github.com/MukundiCode/NIS-ChatApp-PGP.git): An end to end encrypted terminal chat application built in Java , that implements the signal protocol used by WhatsApp and Signal.
