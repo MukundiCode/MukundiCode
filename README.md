@@ -30,9 +30,9 @@ You can find me on:
 
 I'm currently learning more about:
 
-- Reactive Spring (Vert.x)
-- Spring Kotlin
-- Typescript
+- Golang
+- Going deeper on distributed systems
+- Reading Fundamentals of Software Architecture
 
 
 <!--
